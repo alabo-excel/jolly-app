@@ -38,3 +38,9 @@ p{
 svg{
   color: #f0d048;
 }
+hr{
+  background-color: white;
+}
+.navbar-toggler{
+  background-color: white!important;
+}
