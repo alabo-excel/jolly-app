@@ -14,7 +14,7 @@ ul li a{
   color: #f0d048;
 }
 img{
-  width: 30%;
+  width: 40%;
   border-radius: 10px;
 }
 .card{
@@ -34,6 +34,7 @@ h6{
 
 p{
   color: white;
+  padding-bottom: -10px!important;
 }
 svg{
   color: #f0d048;

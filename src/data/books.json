@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Rodham",
+    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1595451106-9780399590917.jpg?crop=1xw:1xh;center,top&resize=768:*",
+    "year": 2020,
+    "director": "Curtis Sittenfeld",
+    "type": "Novel"
+    },
+    {
+    "title": "Transcendent Kingdom:",
+    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1580421723-41tXGnO1p3L.jpg?crop=1xw:1xh;center,top&resize=768:*",
+    "year": 2000,
+    "director": "Yaa Gyasi",
+    "type": "Novel"
+    },
+    {
+    "title": "The Glass Hotel",
+    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1580421797-313uORwmeaL.jpg?crop=1xw:1xh;center,top&resize=768:*",
+    "year": 1999,
+    "director": "Station Eleven",
+    "type": "Novel"
+    },
+    {
+    "title": "My Dark Vanessa",
+    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1580481701-41N27wrCq8L.jpg?crop=1xw:1xh;center,top&resize=768:*",
+    "year": 2016,
+    "director": "Kate Elizabrth Russell",
+    "type": "Novel"
+    },
+    {
+    "title": "The Death of Vivek Oji",
+    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1580481726-41W6QOLBeFL.jpg?crop=1xw:1xh;center,top&resize=768:*",
+    "year": 2014,
+    "director": "Freshwater",
+    "type": "Novel"
+    },
+    {
+    "title": "Real Life",
+    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1580481743-41gs8Ts6iEL.jpg?crop=1xw:1xh;center,top&resize=768:*",
+    "year": 2019,
+    "director": "Brandon Taylor",
+    "type": "Novel"
+    },
+    {
+    "title": "Wow, No Thank You",
+    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1580481764-41R8DZNgJpL.jpg?crop=1xw:1xh;center,top&resize=768:*",
+    "year": 2011,
+    "director": "Samantha Irby",
+    "type": "Essays"
+    },
+    {
+    "title": "Death in Her Hands",
+    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1580481787-411qes5KpRL.jpg?crop=1xw:1xh;center,top&resize=768:*",
+    "year": 2010,
+    "director": "Ottessa Moshfegh",
+    "type": "Novel"
+    },
+    {
+    "title": "It's Not All Downhill From Here",
+    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1580481817-51KB-S8cnTL.jpg?crop=1xw:1xh;center,top&resize=768:*",
+    "year": 2013,
+    "director": "Terry McMillian",
+    "type": "Novel"
+    }
+]
